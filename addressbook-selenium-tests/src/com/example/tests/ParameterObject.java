@@ -40,8 +40,7 @@ public class ParameterObject {
 		this.addres_home = addres_home;
 	}
 	public ParameterObject() {
-		
-	}
+		}
 	public ParameterObject(String groupname, String header, String footer) {
 		this.groupname = groupname;
 		this.header = header;
